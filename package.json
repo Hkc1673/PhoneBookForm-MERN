@@ -13,8 +13,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hkc1673/PhoneBookForm-MERN.git",
-    
+    "url": "git+https://github.com/Hkc1673/PhoneBookForm-MERN.git"
+  }, 
   "keywords": [],
   "author": "",
   "license": "ISC",
