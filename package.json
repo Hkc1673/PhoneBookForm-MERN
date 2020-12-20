@@ -11,9 +11,17 @@
     "develop": "concurrently -n 'client,server' -c 'red,yellow' \"npm run start-client\" \"npm run server\" ",
     "heroku-postbuild": "npm install --prefix client && npm run build --prefix client"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hkc1673/PhoneBookForm-MERN.git",
+    
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hkc1673/PhoneBookForm-MERN/issues"
+  },
+  "homepage": "https://github.com/Hkc1673/PhoneBookForm-MERN#readme",
   "dependencies": {
     "concurrently": "^5.3.0",
     "dotenv": "^8.2.0",
